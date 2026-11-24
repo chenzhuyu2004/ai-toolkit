@@ -1,0 +1,4 @@
+45faa4e1846096f8d68a3f76e2fc70f505c9df596d86c1190811a2e64bb148e4  HermesBundled-2026.6864.2132.0-win.msixbundle
+676afc90c645b2a46c7ace375738dec0a491ba23f745db84da0678515474de26  HermesBundled-2026.6864.2132.0-win.msixbundle.part01
+ed9f9efbef26570ed9bc84e988c81fafd384e66a82b52ac774d80c9bc39d0ffb  HermesBundled-2026.6864.2132.0-win.msixbundle.part02
+45c8ae06749042c57c8e81dfcc3f3ea75aab09126b776264d542a4d0f3795f10  HermesBundled-2026.6864.2132.0-win.msixbundle.part03

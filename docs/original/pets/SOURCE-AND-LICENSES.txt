@@ -1,0 +1,128 @@
+Hermes 0.22.0 offline pet starter — source and license notes
+Collected: 2026-11-24 (Asia/Shanghai, UTC+8)
+Public catalog checked: https://petdex.dev/api/manifest
+  (redirects to https://assets.petdex.dev/manifests/petdex-v1.json)
+Commercial-declaration filter (official public API):
+  https://petdex.dev/api/pets/search?commercial=1
+
+IMPORTANT LICENSE BASIS
+-----------------------
+Petdex source code is MIT; pet artwork is owned by each submitter
+under the license they declared. See:
+  https://github.com/crafter-station/petdex/blob/main/README.md
+  (“The source code is MIT. Pet assets are owned by their submitters
+   under whatever license they choose to declare.”)
+
+Public v1/v2 manifests and each pet’s pet.json / ZIP do NOT include
+an SPDX license field. Pet pages’ JSON-LD also omit license.
+The official search API documents this query parameter:
+  ?commercial=1  — narrows results to pets whose creator declared a
+  license allowing commercial use. Pets predating that field stay out.
+Those commercial licenses, as defined in Petdex source
+  src/lib/submissions-validation.ts  (COMMERCIAL_PET_LICENSES)
+are exactly: cc0, cc-by, cc-by-sa.
+Petdex also states that unspecified (pre-field) pets must not be
+treated as granted permission (src/lib/pet-search.ts).
+
+This pack includes ONLY pets that, at collection time, appeared in
+https://petdex.dev/api/pets/search?commercial=1 (total 388 of 5340).
+The exact SPDX among CC0 / CC BY / CC BY-SA is NOT published in the
+public manifest, pet.json, or pet page payload, so all three official
+legal texts are included below, and attribution is provided for every
+pet (safe if the undeclared-to-us variant is CC BY or CC BY-SA).
+If a work is CC BY-SA, share-alike obligations may apply to adaptations.
+This pack does not claim a single SPDX for the combined archive.
+
+CC licenses only cover the submitter’s own copyright in the artwork.
+They cannot authorize third-party character/trademark rights. This
+starter therefore prefers Petdex curated, original-looking companions
+and does not include obvious fan-art of third-party characters, even
+when those slugs also appear in the commercial filter.
+
+Creative Commons legal texts (official):
+  licenses/CC0-1.0.txt      https://creativecommons.org/publicdomain/zero/1.0/legalcode.txt
+  licenses/CC-BY-4.0.txt    https://creativecommons.org/licenses/by/4.0/legalcode.txt
+  licenses/CC-BY-SA-4.0.txt https://creativecommons.org/licenses/by-sa/4.0/legalcode.txt
+
+PETS IN THIS PACK
+-----------------
+Slug:          boba
+Display name:  Boba
+Kind:          creature
+Submitter:     railly
+Gallery page:  https://petdex.dev/pets/boba
+Source ZIP:    https://assets.petdex.dev/curated/boba/v2/boba.zip
+pet.json URL:  https://assets.petdex.dev/curated/boba/petjson-v2.json
+Sprite URL:    https://assets.petdex.dev/curated/boba/sprite-v2.webp
+Why included:  官方 0.22 文档快速开始示例（hermes pets install boba）；Petdex curated
+License basis: declared to Petdex as one of CC0 / CC BY / CC BY-SA
+               (member of official commercial=1 filter on 2026-11-24)
+Attribution:   “Boba” by railly, from https://petdex.dev/pets/boba
+Sprite:        spritesheet.webp WEBP 1536x2288 grid 8x11 (canon 8x11, scale 1)
+Sprite SHA256: b2a723fc55ac6af867765dedc26b3841fbf178d7e1025d6011e8d96ac44f19c9
+pet.json SHA256: a5f00ef46e5dc981430286cc11bad3b54fca73551f66ac47faa71d3ecc47f75c
+
+Slug:          boxcat
+Display name:  Boxcat
+Kind:          creature
+Submitter:     railly
+Gallery page:  https://petdex.dev/pets/boxcat
+Source ZIP:    https://assets.petdex.dev/curated/boxcat/boxcat.zip
+pet.json URL:  https://assets.petdex.dev/curated/boxcat/pet.json
+Sprite URL:    https://assets.petdex.dev/curated/boxcat/spritesheet.webp
+Why included:  Petdex curated 原创向猫咪伙伴
+License basis: declared to Petdex as one of CC0 / CC BY / CC BY-SA
+               (member of official commercial=1 filter on 2026-11-24)
+Attribution:   “Boxcat” by railly, from https://petdex.dev/pets/boxcat
+Sprite:        spritesheet.webp WEBP 1536x1872 grid 8x9 (canon 8x9, scale 1)
+Sprite SHA256: e42958ecb67ac590f74bebcf895fb13b924120f73e9ec4f57573329c7cf471e6
+pet.json SHA256: f7bc582beeaa2d469aa694a6542dedbc31f4839a0cb814f3a900977f584a0d93
+
+Slug:          byte-bunny
+Display name:  Byte Bunny
+Kind:          creature
+Submitter:     railly
+Gallery page:  https://petdex.dev/pets/byte-bunny
+Source ZIP:    https://assets.petdex.dev/curated/byte-bunny/byte-bunny.zip
+pet.json URL:  https://assets.petdex.dev/curated/byte-bunny/pet.json
+Sprite URL:    https://assets.petdex.dev/curated/byte-bunny/spritesheet.webp
+Why included:  Petdex curated 原创向兔子伙伴
+License basis: declared to Petdex as one of CC0 / CC BY / CC BY-SA
+               (member of official commercial=1 filter on 2026-11-24)
+Attribution:   “Byte Bunny” by railly, from https://petdex.dev/pets/byte-bunny
+Sprite:        spritesheet.webp WEBP 1536x1872 grid 8x9 (canon 8x9, scale 1)
+Sprite SHA256: 75da0d1a94f2933de217702a385d72acb8501aec24eacceddd44bed212a30e34
+pet.json SHA256: 221851f2d6691c434fcf21d60f0cd05135b21a5b8fc0c9540a5012bf062ab2d2
+
+Slug:          prompt-penguin
+Display name:  Prompt Penguin
+Kind:          creature
+Submitter:     railly
+Gallery page:  https://petdex.dev/pets/prompt-penguin
+Source ZIP:    https://assets.petdex.dev/curated/prompt-penguin/prompt-penguin.zip
+pet.json URL:  https://assets.petdex.dev/curated/prompt-penguin/pet.json
+Sprite URL:    https://assets.petdex.dev/curated/prompt-penguin/spritesheet.webp
+Why included:  Petdex curated 原创向企鹅伙伴
+License basis: declared to Petdex as one of CC0 / CC BY / CC BY-SA
+               (member of official commercial=1 filter on 2026-11-24)
+Attribution:   “Prompt Penguin” by railly, from https://petdex.dev/pets/prompt-penguin
+Sprite:        spritesheet.webp WEBP 1536x1872 grid 8x9 (canon 8x9, scale 1)
+Sprite SHA256: 4dd8dbc7335cdf47e4470fe7d6c0d2b9d547667105291ad922739bb10ce86a03
+pet.json SHA256: 8d13ae18da16419dc5e7621aeb65bc123b5f4d2e179f5725f7cf081b87754ba4
+
+Slug:          scoop
+Display name:  Scoop
+Kind:          object
+Submitter:     railly
+Gallery page:  https://petdex.dev/pets/scoop
+Source ZIP:    https://assets.petdex.dev/curated/scoop/scoop.zip
+pet.json URL:  https://assets.petdex.dev/curated/scoop/pet.json
+Sprite URL:    https://assets.petdex.dev/curated/scoop/spritesheet.webp
+Why included:  Petdex curated 原创向物品（冰淇淋）伙伴，增加种类多样性
+License basis: declared to Petdex as one of CC0 / CC BY / CC BY-SA
+               (member of official commercial=1 filter on 2026-11-24)
+Attribution:   “Scoop” by railly, from https://petdex.dev/pets/scoop
+Sprite:        spritesheet.webp WEBP 1536x1872 grid 8x9 (canon 8x9, scale 1)
+Sprite SHA256: 51301ac2a3542426bc883fc4e3463a379084b50177f0d3481b709ac4f6c800f6
+pet.json SHA256: 58864533a6c0aee3dd5b4fe22dbdee25261467929e6723bda3f1f4c9bbcfc8ae
+

@@ -1,0 +1,7 @@
+# Python caches from local skill smoke tests
+__pycache__/
+*.py[cod]
+.coverage
+
+# Accidental output if someone runs ui-ux-pro-max search.py --persist in this clone
+/design-system/
