@@ -1,0 +1,11 @@
+# SHA256 of the ZIP archives (the .zip files themselves)
+
+0afd06abacc3dda7a8b82fab6952f6a44f4845c5a434cf8d5a5819ad6a9eb601  HermesBundled-2026.6864.2132.0-win.msixbundle.part01.zip
+f09d5d2b57c37f254457b3d91ea4a5a91bd0e05e1b792ea8120dd5addedc7dd0  HermesBundled-2026.6864.2132.0-win.msixbundle.part02.zip
+e60b4fe05a9daca3d7a9ce2fc46ccbe8dd79f245df300149e901b062a679d2a6  HermesBundled-2026.6864.2132.0-win.msixbundle.part03.zip
+
+# SHA256 of the original .part members inside each ZIP (must match previously published parts)
+45faa4e1846096f8d68a3f76e2fc70f505c9df596d86c1190811a2e64bb148e4  HermesBundled-2026.6864.2132.0-win.msixbundle
+676afc90c645b2a46c7ace375738dec0a491ba23f745db84da0678515474de26  HermesBundled-2026.6864.2132.0-win.msixbundle.part01
+ed9f9efbef26570ed9bc84e988c81fafd384e66a82b52ac774d80c9bc39d0ffb  HermesBundled-2026.6864.2132.0-win.msixbundle.part02
+45c8ae06749042c57c8e81dfcc3f3ea75aab09126b776264d542a4d0f3795f10  HermesBundled-2026.6864.2132.0-win.msixbundle.part03
