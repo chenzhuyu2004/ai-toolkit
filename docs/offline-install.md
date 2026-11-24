@@ -2,6 +2,8 @@
 
 这是非官方镜像说明，与 Nous Research 无隶属或代言关系。这里再分发的是官方已签名、未修改的 Hermes Agent **稳定版** Windows 侧载包，便于内网拷贝。请优先考虑官方来源。
 
+GitHub 仓库页或标签提供的 Source code zip / tarball 不是完整安装包，请不要用它来安装。
+
 完整逐步说明与脚本原文：
 
 - [original/offline-install/README-offline-install-zh.txt](original/offline-install/README-offline-install-zh.txt)
