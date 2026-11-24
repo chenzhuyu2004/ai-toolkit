@@ -11,7 +11,7 @@
 
 ## 下载
 
-- [Hermes-Pets-Offline-for-0.22.0.zip](https://github.com/chenzhuyu2004/hermes-windows-offline/releases/download/official-stable-0.22.0/Hermes-Pets-Offline-for-0.22.0.zip)
+- [Hermes-Pets-Offline-for-0.22.0.zip](https://github.com/chenzhuyu2004/ai-toolkit/releases/download/official-stable-0.22.0/Hermes-Pets-Offline-for-0.22.0.zip)
 - 大小：9 361 695 字节（约 9 MB）
 - SHA256：`c5d2a6dd1d8d89df67bd3ce5de299188bb7cf305f9174846f82c7c3c66f018fe`
 - 采集日期：2026-11-24（Asia/Shanghai，UTC+8）

@@ -33,19 +33,19 @@ GitHub 仓库页或标签提供的 Source code zip / tarball 不是完整安装�
 
 ## Release 下载（保留既有地址）
 
-发布页：<https://github.com/chenzhuyu2004/hermes-windows-offline/releases/tag/official-stable-0.22.0>
+发布页：<https://github.com/chenzhuyu2004/ai-toolkit/releases/tag/official-stable-0.22.0>
 
-附件根路径：`https://github.com/chenzhuyu2004/hermes-windows-offline/releases/download/official-stable-0.22.0/`
+附件根路径：`https://github.com/chenzhuyu2004/ai-toolkit/releases/download/official-stable-0.22.0/`
 
 ### 原始分片（按字节切开，内容未改）
 
 | 文件 | 大小（字节） | SHA256 |
 | --- | ---: | --- |
-| [HermesBundled-2026.6864.2132.0-win.msixbundle.part01](https://github.com/chenzhuyu2004/hermes-windows-offline/releases/download/official-stable-0.22.0/HermesBundled-2026.6864.2132.0-win.msixbundle.part01) | 1 610 612 736 | `676afc90c645b2a46c7ace375738dec0a491ba23f745db84da0678515474de26` |
-| [HermesBundled-2026.6864.2132.0-win.msixbundle.part02](https://github.com/chenzhuyu2004/hermes-windows-offline/releases/download/official-stable-0.22.0/HermesBundled-2026.6864.2132.0-win.msixbundle.part02) | 1 610 612 736 | `ed9f9efbef26570ed9bc84e988c81fafd384e66a82b52ac774d80c9bc39d0ffb` |
-| [HermesBundled-2026.6864.2132.0-win.msixbundle.part03](https://github.com/chenzhuyu2004/hermes-windows-offline/releases/download/official-stable-0.22.0/HermesBundled-2026.6864.2132.0-win.msixbundle.part03) | 1 112 601 386 | `45c8ae06749042c57c8e81dfcc3f3ea75aab09126b776264d542a4d0f3795f10` |
+| [HermesBundled-2026.6864.2132.0-win.msixbundle.part01](https://github.com/chenzhuyu2004/ai-toolkit/releases/download/official-stable-0.22.0/HermesBundled-2026.6864.2132.0-win.msixbundle.part01) | 1 610 612 736 | `676afc90c645b2a46c7ace375738dec0a491ba23f745db84da0678515474de26` |
+| [HermesBundled-2026.6864.2132.0-win.msixbundle.part02](https://github.com/chenzhuyu2004/ai-toolkit/releases/download/official-stable-0.22.0/HermesBundled-2026.6864.2132.0-win.msixbundle.part02) | 1 610 612 736 | `ed9f9efbef26570ed9bc84e988c81fafd384e66a82b52ac774d80c9bc39d0ffb` |
+| [HermesBundled-2026.6864.2132.0-win.msixbundle.part03](https://github.com/chenzhuyu2004/ai-toolkit/releases/download/official-stable-0.22.0/HermesBundled-2026.6864.2132.0-win.msixbundle.part03) | 1 112 601 386 | `45c8ae06749042c57c8e81dfcc3f3ea75aab09126b776264d542a4d0f3795f10` |
 
-对应校验和文件：[SHA256SUMS.txt](original/offline-install/SHA256SUMS.txt)、[SOURCES.txt](original/offline-install/SOURCES.txt)。另有 [LICENSE](https://github.com/chenzhuyu2004/hermes-windows-offline/releases/download/official-stable-0.22.0/LICENSE)、[README-offline-install-zh.txt](https://github.com/chenzhuyu2004/hermes-windows-offline/releases/download/official-stable-0.22.0/README-offline-install-zh.txt)、[Reassemble-HermesBundled.ps1](https://github.com/chenzhuyu2004/hermes-windows-offline/releases/download/official-stable-0.22.0/Reassemble-HermesBundled.ps1)、[Reassemble-HermesBundled.cmd](https://github.com/chenzhuyu2004/hermes-windows-offline/releases/download/official-stable-0.22.0/Reassemble-HermesBundled.cmd)、[AppxBundleManifest.xml](https://github.com/chenzhuyu2004/hermes-windows-offline/releases/download/official-stable-0.22.0/AppxBundleManifest.xml)、[stable.appinstaller](https://github.com/chenzhuyu2004/hermes-windows-offline/releases/download/official-stable-0.22.0/stable.appinstaller)（仅作官方描述符副本；**离线安装不要使用它**）。
+对应校验和文件：[SHA256SUMS.txt](original/offline-install/SHA256SUMS.txt)、[SOURCES.txt](original/offline-install/SOURCES.txt)。另有 [LICENSE](https://github.com/chenzhuyu2004/ai-toolkit/releases/download/official-stable-0.22.0/LICENSE)、[README-offline-install-zh.txt](https://github.com/chenzhuyu2004/ai-toolkit/releases/download/official-stable-0.22.0/README-offline-install-zh.txt)、[Reassemble-HermesBundled.ps1](https://github.com/chenzhuyu2004/ai-toolkit/releases/download/official-stable-0.22.0/Reassemble-HermesBundled.ps1)、[Reassemble-HermesBundled.cmd](https://github.com/chenzhuyu2004/ai-toolkit/releases/download/official-stable-0.22.0/Reassemble-HermesBundled.cmd)、[AppxBundleManifest.xml](https://github.com/chenzhuyu2004/ai-toolkit/releases/download/official-stable-0.22.0/AppxBundleManifest.xml)、[stable.appinstaller](https://github.com/chenzhuyu2004/ai-toolkit/releases/download/official-stable-0.22.0/stable.appinstaller)（仅作官方描述符副本；**离线安装不要使用它**）。
 
 ### 标准 ZIP（公司下载限制拦截 `.part` 时使用）
 
@@ -53,11 +53,11 @@ GitHub 仓库页或标签提供的 Source code zip / tarball 不是完整安装�
 
 | ZIP | ZIP 本身 SHA256 |
 | --- | --- |
-| [HermesBundled-2026.6864.2132.0-win.msixbundle.part01.zip](https://github.com/chenzhuyu2004/hermes-windows-offline/releases/download/official-stable-0.22.0/HermesBundled-2026.6864.2132.0-win.msixbundle.part01.zip) | `0afd06abacc3dda7a8b82fab6952f6a44f4845c5a434cf8d5a5819ad6a9eb601` |
-| [HermesBundled-2026.6864.2132.0-win.msixbundle.part02.zip](https://github.com/chenzhuyu2004/hermes-windows-offline/releases/download/official-stable-0.22.0/HermesBundled-2026.6864.2132.0-win.msixbundle.part02.zip) | `f09d5d2b57c37f254457b3d91ea4a5a91bd0e05e1b792ea8120dd5addedc7dd0` |
-| [HermesBundled-2026.6864.2132.0-win.msixbundle.part03.zip](https://github.com/chenzhuyu2004/hermes-windows-offline/releases/download/official-stable-0.22.0/HermesBundled-2026.6864.2132.0-win.msixbundle.part03.zip) | `e60b4fe05a9daca3d7a9ce2fc46ccbe8dd79f245df300149e901b062a679d2a6` |
+| [HermesBundled-2026.6864.2132.0-win.msixbundle.part01.zip](https://github.com/chenzhuyu2004/ai-toolkit/releases/download/official-stable-0.22.0/HermesBundled-2026.6864.2132.0-win.msixbundle.part01.zip) | `0afd06abacc3dda7a8b82fab6952f6a44f4845c5a434cf8d5a5819ad6a9eb601` |
+| [HermesBundled-2026.6864.2132.0-win.msixbundle.part02.zip](https://github.com/chenzhuyu2004/ai-toolkit/releases/download/official-stable-0.22.0/HermesBundled-2026.6864.2132.0-win.msixbundle.part02.zip) | `f09d5d2b57c37f254457b3d91ea4a5a91bd0e05e1b792ea8120dd5addedc7dd0` |
+| [HermesBundled-2026.6864.2132.0-win.msixbundle.part03.zip](https://github.com/chenzhuyu2004/ai-toolkit/releases/download/official-stable-0.22.0/HermesBundled-2026.6864.2132.0-win.msixbundle.part03.zip) | `e60b4fe05a9daca3d7a9ce2fc46ccbe8dd79f245df300149e901b062a679d2a6` |
 
-说明与校验和：[README-ZIP.txt](original/offline-install/README-ZIP.txt)、[SHA256SUMS-ZIP.txt](original/offline-install/SHA256SUMS-ZIP.txt)、Release 中的 [README-ZIP.txt](https://github.com/chenzhuyu2004/hermes-windows-offline/releases/download/official-stable-0.22.0/README-ZIP.txt)、[SHA256SUMS-ZIP.txt](https://github.com/chenzhuyu2004/hermes-windows-offline/releases/download/official-stable-0.22.0/SHA256SUMS-ZIP.txt)。
+说明与校验和：[README-ZIP.txt](original/offline-install/README-ZIP.txt)、[SHA256SUMS-ZIP.txt](original/offline-install/SHA256SUMS-ZIP.txt)、Release 中的 [README-ZIP.txt](https://github.com/chenzhuyu2004/ai-toolkit/releases/download/official-stable-0.22.0/README-ZIP.txt)、[SHA256SUMS-ZIP.txt](https://github.com/chenzhuyu2004/ai-toolkit/releases/download/official-stable-0.22.0/SHA256SUMS-ZIP.txt)。
 
 解压后的 `.part` 哈希必须与上表原始分片一致。请把三个 `.part` 放到同一目录后再拼合。
 
@@ -65,10 +65,10 @@ GitHub 仓库页或标签提供的 Source code zip / tarball 不是完整安装�
 
 若原始 `part03.zip` 下载或解压遇到问题，Release 中另有一份备用包，内含**同一份**原始 `part03`（哈希不变）：
 
-- [HermesBundled-2026.6864.2132.0-win-part03-repacked.zip](https://github.com/chenzhuyu2004/hermes-windows-offline/releases/download/official-stable-0.22.0/HermesBundled-2026.6864.2132.0-win-part03-repacked.zip)
+- [HermesBundled-2026.6864.2132.0-win-part03-repacked.zip](https://github.com/chenzhuyu2004/ai-toolkit/releases/download/official-stable-0.22.0/HermesBundled-2026.6864.2132.0-win-part03-repacked.zip)
 - ZIP 本身 SHA256：`6525c0d56ea6a85c83eb4920d2b0d673f4511950616e2028d2a4029fcef84cb7`
 - 解压出的 part03 SHA256 仍须为：`45c8ae06749042c57c8e81dfcc3f3ea75aab09126b776264d542a4d0f3795f10`
-- 校验和：[SHA256SUMS-part03-repacked.txt](original/offline-install/SHA256SUMS-part03-repacked.txt)、[Release 副本](https://github.com/chenzhuyu2004/hermes-windows-offline/releases/download/official-stable-0.22.0/SHA256SUMS-part03-repacked.txt)
+- 校验和：[SHA256SUMS-part03-repacked.txt](original/offline-install/SHA256SUMS-part03-repacked.txt)、[Release 副本](https://github.com/chenzhuyu2004/ai-toolkit/releases/download/official-stable-0.22.0/SHA256SUMS-part03-repacked.txt)
 
 ## 拼合与校验
 
