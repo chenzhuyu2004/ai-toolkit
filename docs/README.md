@@ -1,6 +1,6 @@
 # 文档
 
-本目录是合集的中文导航。大型安装包和宠物精灵图仍只存放在 [Release official-stable-0.22.0](https://github.com/chenzhuyu2004/hermes-windows-offline/releases/tag/official-stable-0.22.0)，请勿把 GitHub 提供的 Source code zip 当作完整安装程序。
+本目录是合集的中文导航。大型安装包和宠物精灵图仍只存放在 [Release official-stable-0.22.0](https://github.com/chenzhuyu2004/ai-toolkit/releases/tag/official-stable-0.22.0)，请勿把 GitHub 提供的 Source code zip 当作完整安装程序。
 
 | 文档 | 内容 |
 | --- | --- |

@@ -38,6 +38,6 @@
 
 Petdex 源码是 MIT，但宠物**绘图版权归各提交者**，按其声明的 CC0、CC BY 或 CC BY-SA 授权。公开清单没有给出每只宠物的具体 SPDX，因此不能把整包写成单一的 MIT 或单一的 CC 许可证。完整说明、署名与三份 CC 法律文本见：
 
-- Release 附件 [Hermes-Pets-Offline-for-0.22.0.zip](https://github.com/chenzhuyu2004/hermes-windows-offline/releases/download/official-stable-0.22.0/Hermes-Pets-Offline-for-0.22.0.zip)
+- Release 附件 [Hermes-Pets-Offline-for-0.22.0.zip](https://github.com/chenzhuyu2004/ai-toolkit/releases/download/official-stable-0.22.0/Hermes-Pets-Offline-for-0.22.0.zip)
 - 仓库内副本：[`docs/original/pets/SOURCE-AND-LICENSES.txt`](docs/original/pets/SOURCE-AND-LICENSES.txt)、[`docs/original/pets/README-offline-pets-zh.txt`](docs/original/pets/README-offline-pets-zh.txt)、[`docs/original/pets/licenses/`](docs/original/pets/licenses/)
 - 导航：[`docs/pets.md`](docs/pets.md)
